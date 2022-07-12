@@ -1,0 +1,14 @@
+# for virtual env
+/work 
+.env
+myvenv/
+venv/
+
+
+test.py
+
+
+# python 
+__pycache__
+
+.spyproject
